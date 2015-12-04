@@ -8,3 +8,5 @@ Those malwares used to infect my friends' USB sticks and when i connected them t
 I wanted to have my PC safe but also not give up the comfort of having an action automatically performed at the connection of an USB drive.
 That's how NAM came out, an DES3-Encrypted Autorun system that had the task to replace the standard autorun, allowing multiple programs to be run at once, as well as special actions to be performed.
 It also featured logging, and a small "dropbox" that you could use to move small files directly in the last USB drive inserted.
+
+This application uses CloudToolkit.net for the button design.
