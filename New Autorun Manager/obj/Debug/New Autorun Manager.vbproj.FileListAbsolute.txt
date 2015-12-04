@@ -1,0 +1,39 @@
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.exe
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.pdb
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.xml
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.Form1.resources
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.Resources.resources
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.exe
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.xml
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.pdb
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.exe.config
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.AskDialog.resources
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.AskDialog2.resources
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.AboutBox.resources
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\Error.log
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.DropBox.resources
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\Error.log
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.exe.config
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.exe
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.pdb
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.xml
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.AboutBox.resources
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.AskDialog.resources
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.AskDialog2.resources
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.DropBox.resources
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.Form1.resources
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New_Autorun_Manager.Resources.resources
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.exe
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.xml
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.pdb
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.exe.manifest
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\New Autorun Manager.application
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\CloudToolkitN6.dll
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.TrustInfo.xml
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.exe.manifest
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\obj\Debug\New Autorun Manager.application
+C:\Documents and Settings\Penaz\Documenti\Visual Studio 2008\Projects\New Autorun Manager\New Autorun Manager\bin\Debug\Settings.vb
