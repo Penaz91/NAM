@@ -1,7 +1,7 @@
 # NAM
 Old and overly complex program to solve a simple problem on Windows XP: The Autorun Malware you get from USB Sticks
 
-##### This is an abandoned project, released under the GNU GPLv2 License
+![Status:Abandoned](https://img.shields.io/badge/Project_Status-Abandoned-red.svg)
 
 This is an old application i made back in 2010 with VB.Net, after the last of countless times my Windows XP got infected with a new "Autorun malware".
 Those malwares used to infect my friends' USB sticks and when i connected them to my PC the autorun made the new malware install and it always took a day of scans to fix the issue.
